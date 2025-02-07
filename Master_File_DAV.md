@@ -76,10 +76,9 @@ for file in input_files:
     print(f"Processed {file} and saved to {output_path}.")
 ```
 
-```ad-done
-title: Output
+
 ![[Pasted image 20241203072419.png]]
-```
+
 
 
 <div style="page-break-after: always;"></div>
